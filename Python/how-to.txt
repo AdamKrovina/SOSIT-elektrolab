@@ -1,0 +1,10 @@
+NI-MAX
+
+anaconda
+
+spyder 4
+
+https://www.microsoft.com/en-us/download/details.aspx?id=48145
+
+https://developers.google.com/sheets/api/quickstart/python?authuser=1
+
